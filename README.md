@@ -1,6 +1,6 @@
 # Spaceranger_cleaner
 
-# Clean spaceranger outputs easily
+## Clean spaceranger outputs easily
 
 **Clean spaceranger from normal visium.**
 
