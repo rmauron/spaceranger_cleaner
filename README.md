@@ -1,4 +1,4 @@
-# Spaceranger_cleaner
+# Spaceranger cleaner
 
 ## Clean spaceranger outputs easily
 
