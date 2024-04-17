@@ -24,12 +24,6 @@ Ultimately, it keeps only (default):
     `-- web_summary.html
 ```
 
-## The script `spaceranger_cleaner.sh`
-
-The script is available for everyone on **st-analysis server** in `/home/common/spaceranger_cleaner/spaceranger_cleaner.sh` .
-
-You can either copy it in your `/username/home/`directory, or just use it from there.
-
 ## Use `spaceranger_cleaner.sh`
 
 ```bash
@@ -51,7 +45,7 @@ In some case, you need to keep extra files like cloupe.cloupe.
 **Default run:**
 
 ```bash
-/home/common/spaceranger_cleaner/spaceranger_cleaner.sh SAMPLE1 SAMPLE2 SAMPLE3
+<PATH/TO/SCRIPT/spaceranger_cleaner.sh> SAMPLE1 SAMPLE2 SAMPLE3
 ```
 
 **Outputs:**
@@ -98,7 +92,7 @@ In some case, you need to keep extra files like cloupe.cloupe.
 **Option run:**
 
 ```bash
-/home/common/spaceranger_cleaner/spaceranger_cleaner.sh -k cloupe.cloupe SAMPLE1
+<PATH/TO/SCRIPT/spaceranger_cleaner.sh> -k cloupe.cloupe SAMPLE1
 ```
 
 **Outputs:**
